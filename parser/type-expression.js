@@ -5,7 +5,7 @@ var Parsimmon = require('parsimmon');
 var lexemes = require('./lexemes.js');
 var typeLiteral = require('./type-literal.js');
 var typeGeneric = require('./type-generic.js');
-var AST = require('../ast.js');
+var AST = require('../ast/');
 var valueLiteral = require('./value-literal.js');
 
 var arrayType = Parsimmon.seq(

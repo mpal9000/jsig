@@ -8,6 +8,10 @@ function LiteralTypeNode(name, builtin, opts) {
     builtin = builtin !== undefined ? builtin :
         builtinTypes.indexOf(name) !== -1;
 
+    if (name === 'Void') {
+        name = 'void';
+    }
+
     this.type = 'typeLiteral';
     this.name = name;
     this.builtin = builtin;

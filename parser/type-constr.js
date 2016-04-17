@@ -4,7 +4,7 @@ var assert = require('assert');
 var Parsimmon = require('parsimmon');
 
 var lexemes = require('./lexemes.js');
-var AST = require('../ast.js');
+var AST = require('../ast/');
 var typeFunction = require('./type-function.js');
 
 var constrFunction = lexemes.newWord
