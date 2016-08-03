@@ -1,0 +1,43 @@
+{
+  "level": "info",
+  "msg": "got stdin json",
+  "fields": {
+    "json": {
+      "seq": 23,
+      "type": "request",
+      "command": "quickinfo",
+      "arguments": {
+        "file": "/home/raynos/projects/http-hash-server/lib/router.js",
+        "offset": 15,
+        "line": 125
+      }
+    }
+  }
+}
+{
+  "level": "info",
+  "msg": "got stdout response buffer",
+  "fields": {
+    "json": {
+      "seq": 0,
+      "type": "response",
+      "command": "quickinfo",
+      "request_seq": 23,
+      "success": true,
+      "body": {
+        "kind": "local var",
+        "kindModifiers": "",
+        "start": {
+          "line": 125,
+          "offset": 9
+        },
+        "end": {
+          "line": 125,
+          "offset": 18
+        },
+        "displayString": "(local var) parsedUrl: any",
+        "documentation": ""
+      }
+    }
+  }
+}

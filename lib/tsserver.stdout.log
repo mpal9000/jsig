@@ -1,0 +1,396 @@
+Content-Length: 81
+
+{"seq":0,"type":"response","command":"configure","request_seq":1,"success":true}
+Content-Length: 125
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":5,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 134
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 136
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 224
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":7,"success":true,"body":{"kind":"","kindModifiers":"","start":{"line":127,"offset":17},"end":{"line":127,"offset":21},"displayString":"any","documentation":""}}
+Content-Length: 436
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":8,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":127,"offset":17},"end":{"line":127,"offset":21},"kind":"reference"},{"start":{"line":141,"offset":13},"end":{"line":141,"offset":17},"kind":"reference"},{"start":{"line":144,"offset":9},"end":{"line":144,"offset":13},"kind":"reference"}]}]}
+Content-Length: 260
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":9,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":129,"offset":5},"end":{"line":129,"offset":19},"displayString":"(local var) perRequestOpts: any","documentation":""}}
+Content-Length: 613
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":10,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":124,"offset":9},"end":{"line":124,"offset":23},"kind":"writtenReference"},{"start":{"line":129,"offset":5},"end":{"line":129,"offset":19},"kind":"reference"},{"start":{"line":139,"offset":45},"end":{"line":139,"offset":59},"kind":"reference"},{"start":{"line":141,"offset":45},"end":{"line":141,"offset":59},"kind":"reference"},{"start":{"line":144,"offset":36},"end":{"line":144,"offset":50},"kind":"reference"}]}]}
+Content-Length: 261
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":11,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":129,"offset":5},"end":{"line":129,"offset":19},"displayString":"(local var) perRequestOpts: any","documentation":""}}
+Content-Length: 613
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":12,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":124,"offset":9},"end":{"line":124,"offset":23},"kind":"writtenReference"},{"start":{"line":129,"offset":5},"end":{"line":129,"offset":19},"kind":"reference"},{"start":{"line":139,"offset":45},"end":{"line":139,"offset":59},"kind":"reference"},{"start":{"line":141,"offset":45},"end":{"line":141,"offset":59},"kind":"reference"},{"start":{"line":144,"offset":36},"end":{"line":144,"offset":50},"kind":"reference"}]}]}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 134
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 136
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 261
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":13,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":129,"offset":5},"end":{"line":129,"offset":19},"displayString":"(local var) perRequestOpts: any","documentation":""}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":14,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":15,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 443
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":16,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"kind":"writtenReference"},{"start":{"line":127,"offset":31},"end":{"line":127,"offset":40},"kind":"reference"},{"start":{"line":131,"offset":9},"end":{"line":131,"offset":18},"kind":"reference"}]}]}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":17,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 443
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":18,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"kind":"writtenReference"},{"start":{"line":127,"offset":31},"end":{"line":127,"offset":40},"kind":"reference"},{"start":{"line":131,"offset":9},"end":{"line":131,"offset":18},"kind":"reference"}]}]}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":19,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":21,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 443
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":22,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"kind":"writtenReference"},{"start":{"line":127,"offset":31},"end":{"line":127,"offset":40},"kind":"reference"},{"start":{"line":131,"offset":9},"end":{"line":131,"offset":18},"kind":"reference"}]}]}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 134
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 136
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":23,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":24,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":26,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 443
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":27,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"kind":"writtenReference"},{"start":{"line":127,"offset":31},"end":{"line":127,"offset":40},"kind":"reference"},{"start":{"line":131,"offset":9},"end":{"line":131,"offset":18},"kind":"reference"}]}]}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 134
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 136
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/http-hash-server/lib/router.js","diagnostics":[]}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":28,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 256
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":29,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":34,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":36,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 79
+
+{"seq":0,"type":"response","command":"reload","request_seq":39,"success":true}
+Content-Length: 110
+
+{"seq":0,"type":"response","command":"reload","request_seq":39,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 79
+
+{"seq":0,"type":"response","command":"reload","request_seq":40,"success":true}
+Content-Length: 110
+
+{"seq":0,"type":"response","command":"reload","request_seq":40,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 5981
+
+{"seq":0,"type":"response","command":"completions","request_seq":41,"success":true,"body":[{"name":"INFO","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"JSON","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"SocketInspector","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"TS_SERVER","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"TypeCheckBinary","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"TypeScriptProxy","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"WARN","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"_","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"___dirname","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"args","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"arguments","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"bin","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"buf","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"checker","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"childProcess","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"code","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"command","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"console","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"createWriteStream","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"enable","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"end","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"err","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"error","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"errorCount","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"errors","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"exit","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"fields","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"file","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"fileName","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"flushDelay","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"fs","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"global","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"handleStdin","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"handleStdout","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"indexOf","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"info","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"inspector","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"join","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"json","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"length","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"level","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"line","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"lines","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"log","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"logFile","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"logStream","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"logger","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"main","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"message","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"msg","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"noop","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"obj","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"on","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onClose","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onData","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onEnd","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onExit","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"oops","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"parse","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"path","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"proc","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"process","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"prototype","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"proxy","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"quickInfo","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"require","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"res","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"run","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"self","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"seq","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"seqId","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"setInterval","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"setTimeout","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"spawn","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"split","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stack","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stayAlive","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stderr","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stdin","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stdout","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"str","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stringify","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"tryJSONParse","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"type","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"write","kind":"warning","kindModifiers":"","sortText":"1"}]}
+Content-Length: 79
+
+{"seq":0,"type":"response","command":"reload","request_seq":42,"success":true}
+Content-Length: 110
+
+{"seq":0,"type":"response","command":"reload","request_seq":42,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 79
+
+{"seq":0,"type":"response","command":"reload","request_seq":44,"success":true}
+Content-Length: 110
+
+{"seq":0,"type":"response","command":"reload","request_seq":44,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 79
+
+{"seq":0,"type":"response","command":"reload","request_seq":46,"success":true}
+Content-Length: 110
+
+{"seq":0,"type":"response","command":"reload","request_seq":46,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 79
+
+{"seq":0,"type":"response","command":"reload","request_seq":48,"success":true}
+Content-Length: 110
+
+{"seq":0,"type":"response","command":"reload","request_seq":48,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 216
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[{"start":{"line":95,"offset":5},"end":{"line":95,"offset":6},"text":"Expression expected."}]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":56,"success":false,"message":"No content available."}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":59,"success":false,"message":"No content available."}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":60,"success":false,"message":"No content available."}
+Content-Length: 120
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/bin/jsig.js","diagnostics":[]}}
+Content-Length: 122
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/bin/jsig.js","diagnostics":[]}}
+Content-Length: 117
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":61,"success":false,"message":"No content available."}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":62,"success":false,"message":"No content available."}
+Content-Length: 254
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":63,"success":true,"body":{"kind":"property","kindModifiers":"","start":{"line":88,"offset":9},"end":{"line":88,"offset":20},"displayString":"(property) definitions: any","documentation":""}}
+Content-Length: 258
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":64,"success":true,"body":[{"file":"/home/raynos/projects/jsig/bin/jsig.js","highlightSpans":[{"start":{"line":88,"offset":9},"end":{"line":88,"offset":20},"kind":"writtenReference"}]}]}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":66,"success":false,"message":"No content available."}
+Content-Length: 216
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[{"start":{"line":95,"offset":5},"end":{"line":95,"offset":6},"text":"Expression expected."}]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 79
+
+{"seq":0,"type":"response","command":"reload","request_seq":67,"success":true}
+Content-Length: 110
+
+{"seq":0,"type":"response","command":"reload","request_seq":67,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 119
+
+{"seq":0,"type":"response","command":"completions","request_seq":74,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 126
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":90,"success":false,"message":"No content available."}
+Content-Length: 80
+
+{"seq":0,"type":"response","command":"reload","request_seq":104,"success":true}
+Content-Length: 111
+
+{"seq":0,"type":"response","command":"reload","request_seq":104,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 4627
+
+{"seq":0,"type":"response","command":"completions","request_seq":107,"success":true,"body":[{"name":"PageTransitionEvent","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PannerNode","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"ParameterDecorator","kind":"type","kindModifiers":"declare","sortText":"0"},{"name":"PerfWidgetExternal","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"Performance","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PerformanceEntry","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PerformanceMark","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PerformanceMeasure","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PerformanceNavigation","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PerformanceNavigationTiming","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PerformanceResourceTiming","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PerformanceTiming","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PeriodicWave","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PeriodicWaveConstraints","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PermissionRequest","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PermissionRequestedEvent","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"Plugin","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PluginArray","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PointerEvent","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PointerEventInit","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PopStateEvent","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"Position","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PositionCallback","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PositionError","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PositionErrorCallback","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PositionOptions","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"ProcessingInstruction","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"ProgressEvent","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"ProgressEventInit","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PromiseConstructorLike","kind":"type","kindModifiers":"declare","sortText":"0"},{"name":"PromiseLike","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PropertyDecorator","kind":"type","kindModifiers":"declare","sortText":"0"},{"name":"PropertyDescriptor","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"PropertyDescriptorMap","kind":"interface","kindModifiers":"declare","sortText":"0"},{"name":"package","kind":"keyword","kindModifiers":"","sortText":"0"},{"name":"pageXOffset","kind":"var","kindModifiers":"declare","sortText":"0"},{"name":"pageYOffset","kind":"var","kindModifiers":"declare","sortText":"0"},{"name":"parent","kind":"var","kindModifiers":"declare","sortText":"0"},{"name":"parse","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"parseFloat","kind":"function","kindModifiers":"declare","sortText":"0"},{"name":"parseInt","kind":"function","kindModifiers":"declare","sortText":"0"},{"name":"path","kind":"var","kindModifiers":"","sortText":"0"},{"name":"payloadtype","kind":"type","kindModifiers":"declare","sortText":"0"},{"name":"performance","kind":"var","kindModifiers":"declare","sortText":"0"},{"name":"personalbar","kind":"var","kindModifiers":"declare","sortText":"0"},{"name":"postMessage","kind":"function","kindModifiers":"declare","sortText":"0"},{"name":"print","kind":"function","kindModifiers":"declare","sortText":"0"},{"name":"private","kind":"keyword","kindModifiers":"","sortText":"0"},{"name":"proc","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"process","kind":"var","kindModifiers":"","sortText":"0"},{"name":"prompt","kind":"function","kindModifiers":"declare","sortText":"0"},{"name":"protected","kind":"keyword","kindModifiers":"","sortText":"0"},{"name":"prototype","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"proxy","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"public","kind":"keyword","kindModifiers":"","sortText":"0"}]}
+Content-Length: 6056
+
+{"seq":0,"type":"response","command":"completions","request_seq":116,"success":true,"body":[{"name":"INFO","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"JSON","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"SocketInspector","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"TS_SERVER","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"TypeCheckBinary","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"TypeScriptProxy","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"WARN","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"_","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"___dirname","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"args","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"arguments","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"bin","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"buf","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"checker","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"childProcess","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"code","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"command","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"console","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"createWriteStream","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"definitions","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"enable","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"end","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"err","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"error","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"errorCount","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"errors","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"exit","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"fields","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"file","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"fileName","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"flushDelay","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"fs","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"global","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"handleStdin","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"handleStdout","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"indexOf","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"info","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"inspector","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"join","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"json","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"length","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"level","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"line","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"lines","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"log","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"logFile","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"logStream","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"logger","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"main","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"message","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"msg","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"noop","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"obj","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"on","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onClose","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onData","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onEnd","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"onExit","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"oops","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"parse","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"path","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"proc","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"process","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"prototype","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"proxy","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"quickInfo","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"require","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"res","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"run","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"self","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"seq","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"seqId","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"setInterval","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"setTimeout","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"spawn","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"split","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stack","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stayAlive","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stderr","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stdin","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stdout","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"str","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"stringify","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"tryJSONParse","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"type","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"write","kind":"warning","kindModifiers":"","sortText":"1"}]}
+Content-Length: 80
+
+{"seq":0,"type":"response","command":"reload","request_seq":122,"success":true}
+Content-Length: 111
+
+{"seq":0,"type":"response","command":"reload","request_seq":122,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 231
+
+{"seq":0,"type":"response","command":"completions","request_seq":125,"success":true,"body":[{"name":"_","kind":"warning","kindModifiers":"","sortText":"1"},{"name":"___dirname","kind":"warning","kindModifiers":"","sortText":"1"}]}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 80
+
+{"seq":0,"type":"response","command":"reload","request_seq":135,"success":true}
+Content-Length: 111
+
+{"seq":0,"type":"response","command":"reload","request_seq":135,"success":true,"body":{"reloadFinished":true}}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 224
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":137,"success":true,"body":{"kind":"","kindModifiers":"","start":{"line":94,"offset":32},"end":{"line":94,"offset":42},"displayString":"any","documentation":""}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":138,"success":false,"message":"No content available."}
+Content-Length: 224
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":139,"success":true,"body":{"kind":"","kindModifiers":"","start":{"line":94,"offset":32},"end":{"line":94,"offset":42},"displayString":"any","documentation":""}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":140,"success":false,"message":"No content available."}
+Content-Length: 224
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":141,"success":true,"body":{"kind":"","kindModifiers":"","start":{"line":94,"offset":32},"end":{"line":94,"offset":42},"displayString":"any","documentation":""}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":142,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 224
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":147,"success":true,"body":{"kind":"","kindModifiers":"","start":{"line":94,"offset":32},"end":{"line":94,"offset":40},"displayString":"any","documentation":""}}
+Content-Length: 224
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":148,"success":true,"body":{"kind":"","kindModifiers":"","start":{"line":94,"offset":32},"end":{"line":94,"offset":40},"displayString":"any","documentation":""}}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":156,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":158,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":160,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":161,"success":false,"message":"No content available."}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":163,"success":false,"message":"No content available."}
+Content-Length: 125
+
+{"seq":0,"type":"event","event":"syntaxDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"event","event":"semanticDiag","body":{"file":"/home/raynos/projects/jsig/lib/_tsserver.js","diagnostics":[]}}
+Content-Length: 127
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":164,"success":false,"message":"No content available."}
+Content-Length: 83
+
+{"seq":0,"type":"response","command":"configure","request_seq":165,"success":true}
+Content-Length: 280
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":169,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":88,"offset":13},"end":{"line":88,"offset":22},"displayString":"(local var) parsedUrl: {\n    pathname: string;\n}","documentation":""}}
+Content-Length: 441
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":170,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server2/lib/router.ts","highlightSpans":[{"start":{"line":88,"offset":13},"end":{"line":88,"offset":22},"kind":"writtenReference"},{"start":{"line":90,"offset":35},"end":{"line":90,"offset":44},"kind":"reference"},{"start":{"line":94,"offset":13},"end":{"line":94,"offset":22},"kind":"reference"}]}]}
+Content-Length: 83
+
+{"seq":0,"type":"response","command":"configure","request_seq":171,"success":true}
+Content-Length: 255
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":174,"success":true,"body":{"kind":"property","kindModifiers":"","start":{"line":88,"offset":9},"end":{"line":88,"offset":20},"displayString":"(property) definitions: any","documentation":""}}
+Content-Length: 259
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":175,"success":true,"body":[{"file":"/home/raynos/projects/jsig/bin/jsig.js","highlightSpans":[{"start":{"line":88,"offset":9},"end":{"line":88,"offset":20},"kind":"writtenReference"}]}]}
+Content-Length: 83
+
+{"seq":0,"type":"response","command":"configure","request_seq":176,"success":true}
+Content-Length: 257
+
+{"seq":0,"type":"response","command":"quickinfo","request_seq":180,"success":true,"body":{"kind":"local var","kindModifiers":"","start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"displayString":"(local var) parsedUrl: any","documentation":""}}
+Content-Length: 444
+
+{"seq":0,"type":"response","command":"documentHighlights","request_seq":181,"success":true,"body":[{"file":"/home/raynos/projects/http-hash-server/lib/router.js","highlightSpans":[{"start":{"line":125,"offset":9},"end":{"line":125,"offset":18},"kind":"writtenReference"},{"start":{"line":127,"offset":31},"end":{"line":127,"offset":40},"kind":"reference"},{"start":{"line":131,"offset":9},"end":{"line":131,"offset":18},"kind":"reference"}]}]}
