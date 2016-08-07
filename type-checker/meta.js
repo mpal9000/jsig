@@ -229,6 +229,9 @@ ProgramMeta.prototype.verifyNode = function verifyNode(node, exprType) {
 
     this.currentExpressionType = oldExprType;
     this.currentNode = parent;
+
+    node._jsigType = type;
+
     return type;
 };
 
